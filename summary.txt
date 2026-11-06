@@ -1,0 +1,9 @@
+School Attendance Tracker - One Term Summary
+
+S1: Average 91.6%, changed +0.8 points, stable.
+S2: Average 89.9%, changed +1.4 points, getting better.
+S3: Average 82.1%, changed -2.7 points, getting worse.
+S4: Average 90.4%, changed +0.8 points, stable.
+
+Worst class: S3 with 82.1% average attendance, and it is getting worse.
+Recommendation: Focus follow-up on S3 - check reasons for Friday absences and late-term drop.
